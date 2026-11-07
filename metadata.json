@@ -1,0 +1,6 @@
+{
+  "name": "Metodología & Diseños de Investigación - Blog Académico",
+  "description": "Blog académico universitario sobre Diseños de Investigación Cuantitativos y Cualitativos en Ingeniería y Tecnología, con artículos reales, citas APA 7 y matriz comparativa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

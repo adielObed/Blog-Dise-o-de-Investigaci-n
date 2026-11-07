@@ -1,0 +1,31 @@
+@import "tailwindcss";
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+@layer base {
+  :root {
+    --font-serif: 'Fraunces', Georgia, serif;
+    --font-sans: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+    --font-mono: 'JetBrains Mono', monospace;
+  }
+
+  body {
+    font-family: var(--font-sans);
+  }
+
+  h1, h2, h3, .font-editorial {
+    font-family: var(--font-serif);
+  }
+
+  code, pre, .font-scientific {
+    font-family: var(--font-mono);
+  }
+}
+
+/* APA 7 French indent styling (sangría francesa) */
+.apa-citation {
+  padding-left: 2rem;
+  text-indent: -2rem;
+  line-height: 1.7;
+}
+
