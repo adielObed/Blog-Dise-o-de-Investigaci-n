@@ -1251,11 +1251,11 @@ export default function App() {
         <section id="videos" className="space-y-6 pb-10 border-b border-stone-200 dark:border-stone-800">
           <div className="space-y-2">
             <h2 className="text-2xl sm:text-3xl font-editorial font-bold text-stone-900 dark:text-stone-50">
-              9. Recursos audiovisuales seleccionados y citados
+              9. Recursos audiovisuales
             </h2>
             <p className="text-sm sm:text-base text-stone-600 dark:text-stone-300 leading-relaxed">
-              Para profundizar en los diseños cuantitativos y cualitativos estudiados en el módulo, se han seleccionado,
-              incrustado y referenciado en formato APA 7.ª edición los siguientes dos recursos audiovisuales académicos:
+              Para profundizar en los diseños cuantitativos y cualitativos estudiados en el módulo, se presentan los
+              siguientes recursos audiovisuales académicos:
             </p>
           </div>
 
@@ -1355,8 +1355,8 @@ export default function App() {
 
           <div className="p-4 rounded-xl bg-stone-100 dark:bg-stone-900 border border-stone-200 dark:border-stone-800 text-xs text-stone-600 dark:text-stone-300 leading-relaxed">
             <strong className="text-stone-900 dark:text-stone-100">Nota académica:</strong> Ambos recursos
-            audiovisuales concretos han sido seleccionados por su correspondencia directa con la bibliografía del
-            módulo e incluidos formalmente en la sección de Referencias del blog bajo normas APA 7.ª edición.
+            audiovisuales han sido seleccionados por su correspondencia directa con la bibliografía del módulo e
+            incluidos en la sección de Referencias del blog.
           </div>
 
           <BackToTopLink />
